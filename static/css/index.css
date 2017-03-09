@@ -1,0 +1,10 @@
+#map {
+	height: 400px;
+    width: 100%;
+}
+
+.navbar-header, #navbar {
+	background: black;
+	color: white;
+}
+
