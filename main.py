@@ -22,7 +22,7 @@ import string
 import json
 import logging
 import random
-from configuration import config 
+
 from google.appengine.ext import ndb
 
 template_dir = os.path.join(os.path.dirname(__file__), 'jinja_templates')
